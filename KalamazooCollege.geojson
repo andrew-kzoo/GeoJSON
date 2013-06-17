@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Motto": "Lux Esto",
+				"Motto in English": "Be Light",
+				"Established": "1833",
+				"Summary": "Kalamazoo College, also known as K College or simply K, is a private liberal arts college in Kalamazoo, Michigan. Founded in 1833, the college is among the 100 oldest in the country.",
+				"President": "Eileen Wilson-Oyelaran",
+				"Provost": "Mickey McDonald",
+				"Undergraduates": "1,403",
+				"Location": "Kalamazoo, Michigan, United States",
+				"Campus": "Urban",
+				"Colors": "Orange, Black",
+				"Nickname": "K",
+				"Mascot": "Hornets",
+				"Affiliations": "Great Lakes Colleges Association",
+				"Website": "http://www.kzoo.edu/",
+				"Address": "1200 Academy St, Kalamazoo, MI 49006",
+				"Phone": "(269) 337-7000"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-85.601,
+					42.290
+				]
+			}
+		}
+	]
+}
